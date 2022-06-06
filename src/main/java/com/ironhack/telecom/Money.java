@@ -1,4 +1,4 @@
-package com.ironhack;
+package com.ironhack.telecom;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
